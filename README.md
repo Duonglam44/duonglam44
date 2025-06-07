@@ -1,5 +1,17 @@
 <h1>Hi 👋, I'm a Software Web Developer.</h1>
+
 <p>A software engineer with a strong ambition to enhance both technical and soft skills, enabling me to effectively manage all roles within a project, lead a team, and develop useful products for the community. </p>
+
+
+<p>I am a Frontend Engineer with 4 years of experience specializing in building modern, user-centric web applications using React.js, Next.js, and TypeScript.
+
+I have worked with Smartwill Inc., a Japanese company, where I collaborated closely with Japanese project managers and engineers to develop CRM solutions for the hotel and retail industries. This experience not only sharpened my technical skills but also gave me a strong understanding of Japanese business culture, communication, and project management practices.
+
+Throughout my career, I have focused on frontend performance optimization, scalable UI/UX design, and seamless API integration. I am passionate about creating products that deliver meaningful value to both users and businesses.
+
+I am fluent in English, based in Da Nang, Vietnam, and open to remote opportunities or relocation to work.
+
+Key Skills: React.js, Next.js, TypeScript, Tailwind CSS, Material UI, JavaScript, HTML5, CSS3, API Integration, Agile Development</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
