@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Lam Le Quang Duong (Tony)
+# 👋 Hi, I'm Lam Duong (Tony)
 
 ### Full-Stack Software Engineer
 
